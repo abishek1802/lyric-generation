@@ -18,33 +18,35 @@ How It Works:
 Detailed Process Flow:
 ![](images/pic2.png?raw=true) 
 
-Streamlit UI Layout
+##Streamlit UI Layout
 Here's a sneak peek into the user interface of VIRTUOSOS:
 
 
 Getting Started
 Clone the Repository
 
-bash
-Copy code
+```
 git clone https://github.com/yourusername/yourrepo.git
 cd yourrepo
+```
 Install Requirements
 
-Copy code
+```
 pip install -r requirements.txt
+```
 Run the Application
 
-arduino
-Copy code
+```
 streamlit run app.py
-Contributing
-We welcome contributions! Please see our contributing guidelines for more details.
+```
 
-License
+##Contributing
+I welcome contributions! 
+
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+##Acknowledgments
 Streamlit
 Hugging Face
 Genius API
