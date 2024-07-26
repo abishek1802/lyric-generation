@@ -7,11 +7,17 @@ Main Features
 Artist-Specific Models: Choose from a wide range of artists to generate lyrics in their unique style.
 Customizable Settings: Fine-tune parameters such as temperature, length, and diversity to control the generated text.
 User-Friendly Interface: Built with Streamlit for a seamless and interactive experience.
-How It Works
+
+How It Works:
+
+
 ![](images/pic1.png?raw=true)
 
-Detailed Process Flow
-![](images/pic2.png?raw=true)
+
+
+Detailed Process Flow:
+![](images/pic2.png?raw=true) 
+
 Streamlit UI Layout
 Here's a sneak peek into the user interface of VIRTUOSOS:
 
