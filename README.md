@@ -20,7 +20,7 @@ Detailed Process Flow:
 
 
 
-#Streamlit UI Layout
+## Streamlit UI Layout
 Here's a sneak peek into the user interface of VIRTUOSOS:
 
 
@@ -43,13 +43,13 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-#Contributing
+## Contributing
 I welcome contributions! 
 
-#License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-#Acknowledgments
+## Acknowledgments
 -Streamlit
 -Hugging Face
 -Genius API
