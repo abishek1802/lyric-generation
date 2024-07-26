@@ -1,0 +1,4 @@
+lyricsgenius
+transformers
+torch
+altair<5
