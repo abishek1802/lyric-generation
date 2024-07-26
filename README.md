@@ -18,23 +18,26 @@ How It Works:
 Detailed Process Flow:
 ![](images/pic2.png?raw=true) 
 
-##Streamlit UI Layout
+
+
+#Streamlit UI Layout
 Here's a sneak peek into the user interface of VIRTUOSOS:
 
 
 Getting Started
-Clone the Repository
+
+1.Clone the Repository
 
 ```
 git clone https://github.com/yourusername/yourrepo.git
 cd yourrepo
 ```
-Install Requirements
+2.Install Requirements
 
 ```
 pip install -r requirements.txt
 ```
-Run the Application
+3.Run the Application
 
 ```
 streamlit run app.py
@@ -47,6 +50,6 @@ I welcome contributions!
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 #Acknowledgments
-Streamlit
-Hugging Face
-Genius API
+-Streamlit
+-Hugging Face
+-Genius API
