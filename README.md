@@ -50,6 +50,6 @@ I welcome contributions!
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
--Streamlit
--Hugging Face
--Genius API
+* Streamlit
+* Hugging Face
+* Genius API
