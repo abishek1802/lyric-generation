@@ -40,13 +40,13 @@ Run the Application
 streamlit run app.py
 ```
 
-##Contributing
+#Contributing
 I welcome contributions! 
 
-##License
+#License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Acknowledgments
+#Acknowledgments
 Streamlit
 Hugging Face
 Genius API
