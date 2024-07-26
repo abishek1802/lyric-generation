@@ -1,4 +1,4 @@
-VIRTUOSOS: AI-Powered Lyric Generation
+# VIRTUOSOS: AI-Powered Lyric Generation
 
 Project Overview
 Welcome to VIRTUOSOS, an AI-powered lyric generation tool. This project leverages the power of GPT-2 and the Hugging Face model library to create song lyrics in the style of your favorite artists.
@@ -8,20 +8,10 @@ Artist-Specific Models: Choose from a wide range of artists to generate lyrics i
 Customizable Settings: Fine-tune parameters such as temperature, length, and diversity to control the generated text.
 User-Friendly Interface: Built with Streamlit for a seamless and interactive experience.
 How It Works
-
+![](images/pic1.png?raw=true)
 
 Detailed Process Flow
-mermaid
-Copy code
-graph LR
-    A[Input Artist Name] --> B[Fetch Artist Data from Genius]
-    B --> C{Artist Found?}
-    C -->|Yes| D[Model Check and Download]
-    C -->|No| E[Error: Artist Not Found]
-    D --> F[Input Prompt]
-    F --> G[Model Inference]
-    G --> H[Post-Processing]
-    H --> I[Display Generated Lyrics]
+![](images/pic2.png?raw=true)
 Streamlit UI Layout
 Here's a sneak peek into the user interface of VIRTUOSOS:
 
